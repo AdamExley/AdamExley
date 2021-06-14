@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Most of my work is currently directed towards developing the [RoPE-S3D](https://github.com/OSU-AIMS/RoPE-S3D) repository as a part of the [AIMS Lab](https://github.com/OSU-AIMS) at the Ohio State University. This repository evolved from the [DeepPoseRobot](https://github.com/OSU-AIMS/DeepPoseRobot) repository, also authored by me. 
+Both repositores aim to detect the joint angles of a 6-axis robotic arm.
+
+In my free time I like to play around with images, specifically involving processing using neural networks. (That repository is *very* messy though, so it's gonna remain private for a while) I tried my hand at training a model using [Image Super Resolution](https://github.com/idealo/image-super-resolution) on some of my personal high-quality images, although it needs quite a bit more training.
+
+Feel free to contact me at exley.8@osu.edu if you have any questions about me or my work.
+
+
 <!--
 **AdamExley/AdamExley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
