@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi!
 
 Most of my work is currently directed towards developing the [RoPE-S3D](https://github.com/OSU-AIMS/RoPE-S3D) repository as a part of the [AIMS Lab](https://github.com/OSU-AIMS) at the Ohio State University. This repository evolved from the [DeepPoseRobot](https://github.com/OSU-AIMS/DeepPoseRobot) repository, also authored by me. 
 Both repositores aim to detect the joint angles of a 6-axis robotic arm.
