@@ -5,7 +5,7 @@ Both repositores aim to detect the joint angles of a 6-axis robotic arm.
 
 In my free time I like to play around with images, whether it be with AI or just implementing custom filters that I define as I go.
 
-I recommend you check out my (ever-evolving) [GitHub pages site](adamexley.github.io).
+I recommend you check out my (ever-evolving) [GitHub pages site](https://adamexley.github.io).
 
 
 Feel free to contact me at [exley.8@osu.edu](mailto:exley.8@osu.edu) if you have any questions about me or my work.
