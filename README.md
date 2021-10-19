@@ -1,12 +1,11 @@
-### Hi!
+### Hi, I'm Adam Exley!
 
-Most of my work is currently directed towards developing the [RoPE-S3D](https://github.com/OSU-AIMS/RoPE-S3D) repository as a part of the [AIMS Lab](https://github.com/OSU-AIMS) at the Ohio State University. This repository evolved from the [DeepPoseRobot](https://github.com/OSU-AIMS/DeepPoseRobot) repository, also authored by me. 
-Both repositores aim to detect the joint angles of a 6-axis robotic arm.
+Currently, I'm diving into Augmented Reality programming with C# and Unity!
 
-In my free time I like to play around with images, whether it be with AI or just implementing custom filters that I define as I go.
+Most of my previous work was directed towards developing the [RoPE-S3D](https://github.com/OSU-AIMS/RoPE-S3D) repository as a part of the [AIMS Lab](https://github.com/OSU-AIMS) at the Ohio State University. This repository evolved from the [DeepPoseRobot](https://github.com/OSU-AIMS/DeepPoseRobot) repository, also authored by me. 
+Both repositores aimed to detect the joint angles of a 6-axis robotic arm.
 
 I recommend you check out my (ever-evolving) [GitHub pages site](https://adamexley.github.io).
-
 
 Feel free to contact me at [exley.8@osu.edu](mailto:exley.8@osu.edu) if you have any questions about me or my work.
 
