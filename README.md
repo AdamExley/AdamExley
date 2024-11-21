@@ -2,6 +2,8 @@
 
 I recommend you check out my (ever-evolving) website at [AdamExley.com](https://adamexley.com). It has more info than this (by a long shot).
 
+It even has a fun surprise at [AdamExley.com/Horse](https://adamexley.com/horse)!
+
 I try to keep it (somewhat) up-to-date, whereas this is... well you can see when it was last edited, right?
 
 
